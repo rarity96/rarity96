@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm just a (still) young person who try to learn something new. Hope to find some interships or work, where I could use my new skills.
 
 <!--
 **rarity96/rarity96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
