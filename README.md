@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning python + django, and some JavaScript.
 - 💬 Ask me about anything you want.
 - 🔭 I’m currently working on web app for my GF, she's a physhioterspist student, so I thgought she will need website in the future. 
+- Most my time I'm spending with:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
